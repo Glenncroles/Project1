@@ -1,11 +1,4 @@
-# Getting Started with Java - Google Compute Engine
 
-See the [Bookshelf tutorial][tutorial] for help getting started with Google App Engine (Standard), Google Cloud
-Firestore, and more.
-
-You'll need to [create a bucket][create-bucket] in Google Cloud Storage,
-referred to below as `MY-BUCKET`. You'll also need to create an OAuth2 client
-and secret, and edit `pom.xml` with its values.
 
 ### Running Locally
 
@@ -17,8 +10,7 @@ and secret, and edit `pom.xml` with its values.
 
         gcloud init
 
-* In the `makeProject` script update the `BUCKET` environment variable
-  with your bucket name.
+* In the `makeProject` script update the `BUCKET` and region
 
 * Deploy your App
 
@@ -40,6 +32,4 @@ and secret, and edit `pom.xml` with its values.
 
         ./makeProject down-many
 
-[tutorial]: https://cloud.google.com/java/getting-started/tutorial-app
-[create-bucket]: https://cloud.google.com/storage/docs/creating-buckets#storage-create-bucket-console
 [cloud_sdk]: https://cloud.google.com/sdk/
