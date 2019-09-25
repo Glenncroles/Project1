@@ -31,3 +31,9 @@ click ping. JSON file should now be on your desktop
 
 ## Java finland
 > 35.228.209.221
+
+## Java app Engine in asia
+>http://projec1-2-asai.appspot.com
+
+## Java asia
+>http://34.97.56.127
