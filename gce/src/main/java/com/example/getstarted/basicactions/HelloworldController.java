@@ -16,8 +16,9 @@
 
 package com.example.getstarted.basicactions;
 
+import java.io.PrintWriter;
 import java.io.IOException;
-
+import java.util.*;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -28,7 +29,8 @@ public class HelloworldController extends HttpServlet {
 
   @Override
   public void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
-    resp.getWriter().write("Hello world - GCE!");
+    PrintWriter out = resp.getWriter();
+    out.print((int)(Math.random() * 1000000) + 1);
     resp.setStatus(HttpServletResponse.SC_OK);
   }
 }
