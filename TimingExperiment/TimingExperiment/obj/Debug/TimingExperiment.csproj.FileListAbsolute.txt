@@ -1,0 +1,16 @@
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\bin\Debug\TimingExperiment.exe.config
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\bin\Debug\TimingExperiment.exe
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\bin\Debug\TimingExperiment.pdb
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\obj\Debug\TimingExperiment.csprojAssemblyReference.cache
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\obj\Debug\TimingExperiment.Form1.resources
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\obj\Debug\TimingExperiment.Properties.Resources.resources
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\obj\Debug\TimingExperiment.csproj.GenerateResource.cache
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\obj\Debug\TimingExperiment.csproj.CoreCompileInputs.cache
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\obj\Debug\TimingExperiment.csproj.CopyComplete
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\obj\Debug\TimingExperiment.exe
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\obj\Debug\TimingExperiment.pdb
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sadie\source\repos\TimingExperiment\TimingExperiment\bin\Debug\Newtonsoft.Json.xml
