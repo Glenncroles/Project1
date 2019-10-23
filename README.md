@@ -12,7 +12,7 @@
 > Python VM Finland: 35.228.36.139   
 > Python VM Asia: 34.97.126.14 
 
-#### The Java Protion
+#### The Java Protion (Appengine is in appengine-try-java, VM is in gce folder)   
 > Java Appengine NA: https://random-252323.appspot.com/   
 > Java Appengine Asia: http://projec1-2-asai.appspot.com/   
 > Java VM NA: 35.188.39.63   
