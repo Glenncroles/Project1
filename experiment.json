@@ -1,0 +1,42 @@
+[
+  {
+    "region": "asia-northeast2",
+    "zone": "b",
+    "type": "VM",
+    "language": "python",
+    "address": "http://34.97.11.0/",
+    "symbol": null,
+    "time": "252",
+    "number": "361631"
+  },
+  {
+    "region": "asia-northeast2",
+    "zone": "b",
+    "type": "app",
+    "language": "python",
+    "address": "https://python-asia-northeast2-b.appspot.com/",
+    "symbol": null,
+    "time": "28",
+    "number": "722286"
+  },
+  {
+    "region": "asia-northeast2",
+    "zone": "b",
+    "type": "VM",
+    "language": "java",
+    "address": "http://34.97.78.8/",
+    "symbol": null,
+    "time": "178",
+    "number": "506179"
+  },
+  {
+    "region": "asia-northeast2",
+    "zone": "b",
+    "type": "app",
+    "language": "java",
+    "address": "http://projec1-2-asai.appspot.com/",
+    "symbol": null,
+    "time": "60",
+    "number": "299603"
+  }
+]
