@@ -1,6 +1,6 @@
 # Project1
 
-> This project creates a random number that is random 750-1000
+> This project creates a random number
 
 > It is done in both Python and Java
 
@@ -8,17 +8,19 @@
 
 ## The Python Portion
 
-> Python appengine https://diesal-skyline-251014.appspot.com/ click the 
-generate button to generate a number
-
-> Python VM address 35.193.134.15  click the generate button to 
-generate a number
+> Python Appengine NA: https://diesal-skyline-251014.appspot.com/    
+> Phython Appengine Asia: https://github.com/Glenncroles/Project1    
+> Python VM NA: 35.193.134.15         
+> Python VM Finland:    
+> Python VM Asia:      
 
 ## The Java Protion
-> Java Appengine https://random-252323.appspot.com/ Wait for it to load 
-and refresh to get new number
+> Java Appengine NA: https://random-252323.appspot.com/   
+> Java Appengine Asia: http://projec1-2-asai.appspot.com/
+> Java VM NA: 35.188.39.63   
+> Java VM Finland: 35.228.33.135   
+> Java VM Asia: 34.97.78.8   
 
-> Java VM NA 35.188.39.63 
 
 ## CSharpPing exe
 >To run, CSharpPing/bin/Debug/CSharpPing.exe type in all four ip then 
@@ -29,17 +31,6 @@ click ping. JSON file should now be on your desktop
 ## Python finland
 > 35.228.36.139
 
-## Java finland
-> 35.228.209.221
-
-## Java app Engine in asia
->http://projec1-2-asai.appspot.com
-
-## Java asia
->34.97.78.8
-
-## python app engine asia
->https://github.com/Glenncroles/Project1
 
 ## python vm asia
 >http://34.97.126.14/
